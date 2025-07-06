@@ -17,7 +17,7 @@ I'm passionate about continuous learning and have a strong ability to quickly pi
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/z3ahdkytzwi1jxlpazje" height="60" alt="storybook logo"  />
+  <img src="https://drive.google.com/file/d/1NebKEAHFGKjojWI0iB-bUMASPxmQWCcN/view?usp=sharing" height="60" alt="storybook logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="graphql logo"  />
   <img width="12" />
