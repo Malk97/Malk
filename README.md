@@ -11,13 +11,13 @@ I'm passionate about continuous learning and have a strong ability to quickly pi
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="dockert logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="60" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGDKmSgL7UJ6sstMUQTtjI2iDN7ClN2jRZ5Q&s" height="60" alt="storybook logo"  />
+  <img src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/z3ahdkytzwi1jxlpazje" height="60" alt="storybook logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="graphql logo"  />
   <img width="12" />
