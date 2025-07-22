@@ -8,21 +8,15 @@ I'm passionate about continuous learning and have a strong ability to quickly pi
 
 <h1 align="center">Hey 👋This is Malk Al-Jarrah </h1>
 
-###
+### 🧰 Languages and Tools
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="dockert logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://images.seeklogo.com/logo-png/44/2/streamlit-logo-png_seeklogo-441815.png" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="60" alt="go logo"  />
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" style="padding-right:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" style="padding-right:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" style="padding-right:10px;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/ML-icon.svg" alt="Machine Learning" width="40" style="padding-right:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" style="padding-right:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="40" style="padding-right:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" style="padding-right:10px;" />
 
 ###
 
