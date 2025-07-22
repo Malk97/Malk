@@ -7,6 +7,8 @@ I'm passionate about continuous learning and have a strong ability to quickly pi
 
 ### 🧰 Languages and Tools
 
+### 🧰 Languages and Tools
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" style="margin-right:10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" style="margin-right:10px;" />
@@ -15,9 +17,16 @@ I'm passionate about continuous learning and have a strong ability to quickly pi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" style="margin-right:10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="40" style="margin-right:10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" style="margin-right:10px;" />
+  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="40" style="margin-right:10px;" />
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" width="40" style="margin-right:10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="40" style="margin-right:10px;" />
+  <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code" width="40" style="margin-right:10px;" />
+  <img src="https://mlflow.org/docs/latest/_static/mlflow-logo.png" alt="MLflow" width="40" style="margin-right:10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="40" style="margin-right:10px;" />
+  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="40" style="margin-right:10px;" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/OpenAI_Logo.svg" alt="OpenAI" width="40" style="margin-right:10px;" />
 </p>
 
-###
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
